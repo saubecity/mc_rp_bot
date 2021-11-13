@@ -1,2 +1,4 @@
-# mc_rp_bot
-[indev] create and modify minecraft server, create roleplay, event and more
+# minecraft server/roleplay bot
+**create minecraft server, events and more using this discord bot**
+
+<h2> commands <h2>
